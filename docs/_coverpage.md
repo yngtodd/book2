@@ -1,4 +1,4 @@
-[logo](_media/icon.svg)
+![logo](_media/icon.svg)
 
 <hr style='width:40%; border-color:#da291c;'>
 <h1 style="color: #da291c">BOOK2</h1>
