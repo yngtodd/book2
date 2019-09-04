@@ -2,7 +2,7 @@
 
 #### Development Lead
 
-* Todd Young GitHub: [yngtodd](https://github.com/yngtodd)
+* Todd Young - GitHub: [yngtodd](https://github.com/yngtodd)
 
 #### Contributors
 
