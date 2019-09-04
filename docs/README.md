@@ -4,6 +4,6 @@
   </a>
 </p>
 
-## Welcome to BOOK2
+### Welcome to BOOK2
 
 An awesome docsify book project.
